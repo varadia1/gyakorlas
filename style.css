@@ -23,7 +23,7 @@ height: 30px;
 
 }
 
-.newsletter input {
+.newsletter input#email {
 
     display: block;
     width: 100%;
