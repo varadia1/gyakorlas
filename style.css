@@ -67,14 +67,20 @@ right: 4px;
     width: 100px;
     height: 100px;
     border-radius: 50%;
-
     color: white;
     font-size: 70px;
     text-align: center;
-
     position: fixed;
     bottom: 10px;
     right: 10px;
-   
 
+}
+
+.card {
+    background-color: #3cb878;
+    color: white;
+    width: 180px;
+    text-align: center;
+    padding: 20px 0;
+    box-shadow: 0 0 7px 2px gray;
 }
